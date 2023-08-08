@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(12, 27, 235);;
+}
+.formulaire
+    {
+       margin: 0 auto;
+        margin-top: 60px;
+        background: rgb(232, 235, 237);
+        width: 550px;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+    .LOGO{ 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+       }
+    
+p {
+
+width: 400px;
+text-align: center;
+
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.page{
+   
+}
+.google button a{
+    text-decoration: none;
+    color: black;
+}
+.google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.in{
+    width: 240px;
+    height: 30px;
+    margin-left: 70px;  
+}
+.google button{
+    width:250px;
+    height: 40px;
+    border-color: rgb(119, 127, 254);;
+}
+
+.content .conect{
+    width: 250px;
+    height: 30px;
+    margin-left: 70px; 
+    background: rgb(119, 127, 254);
+    border: none;
+    
+}
+.google button:hover{
+    border: rgb(232, 235, 237);
+    background: rgb(119, 127, 254);
+    transition: 0.3s;
+   
+}
